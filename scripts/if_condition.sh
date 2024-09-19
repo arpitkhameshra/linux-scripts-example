@@ -10,7 +10,7 @@ fi
 
 name=arpit
 val=1
-if [ $val -eq 1 ]
+if [ $val -eq 2 ]
 then	
 	echo "yes arpit logged in"
 else
